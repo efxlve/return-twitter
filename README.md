@@ -6,7 +6,7 @@ This Chrome extension brings back the old Twitter experience.
 - Larry's house is back!
 - There is no X, there is only Twitter
 - Post or what? Anyway, did you see this Tweet?
-- There are no premium ads either!
+- No premium ads!
 - There is only a blue tick!  
 
 ## Installation
