@@ -7,7 +7,7 @@ This Chrome extension brings back the old Twitter experience.
 - There is no X, there is only Twitter
 - Post or what? Anyway, did you see this Tweet?
 - There are no premium ads either!
-- There is only a blue tick!
+- There is only a blue tick!  
 
 ## Installation
 1. Clone this repository
